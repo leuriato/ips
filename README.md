@@ -10,10 +10,10 @@ cd ips
 ## Usage
 Scan ips on the interfaces: ```ips```
 
-Scan specific ip : ```ips ip```
+Scan specific ip : ```ips <ip>```
 
-Scan ips on a network : ```ips nw_ip/mask```
+Scan ips on a network : ```ips <nw_ip>/<mask>```
 
-Scan ips on a range : ```ips ip_start-ip_end```
+Scan ips on a range : ```ips <ip_start>-<ip_end>```
 
 Note: only IPv4 are supported
