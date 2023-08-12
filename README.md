@@ -1,7 +1,7 @@
 # ips
 A tool to scan IPs on Linux
 ## Installation
-Note: Cargo must be installed befor installing ips
+Note: Cargo must be installed before installing ips
 ```
 git clone https://github.com/leuriato/ips
 cd ips
